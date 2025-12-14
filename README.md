@@ -1,4 +1,4 @@
-# Basic-Java-Programs
+
 # Basic Java Programs
 
 This repository contains **basic Java programs** for beginners.  
